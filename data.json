@@ -6,6 +6,13 @@
       "amount": 120475,
       "description": "First money",
       "date": "2026-05-27"
+    },
+    {
+      "id": 1779915593160,
+      "type": "expense",
+      "amount": 10500,
+      "description": "Jajan",
+      "date": "2026-05-27"
     }
   ],
   "attendance": {}
