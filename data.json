@@ -1,19 +1,4 @@
 {
-  "transactions": [
-    {
-      "id": 1779914949455,
-      "type": "expense",
-      "amount": 10500,
-      "description": "Jajan ",
-      "date": "2026-05-27"
-    },
-    {
-      "id": 1779915041444,
-      "type": "income",
-      "amount": 109975,
-      "description": "Balance",
-      "date": "2026-05-27"
-    }
-  ],
+  "transactions": [],
   "attendance": {}
 }
