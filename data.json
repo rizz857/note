@@ -1,4 +1,12 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": 1779914949455,
+      "type": "expense",
+      "amount": 10500,
+      "description": "Jajan ",
+      "date": "2026-05-27"
+    }
+  ],
   "attendance": {}
 }
