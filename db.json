@@ -1,0 +1,11 @@
+{
+  "transactions": [
+    {
+      "id": 1779914612325,
+      "type": "expense",
+      "amount": 10,
+      "description": "Jajan",
+      "date": "2026-05-27"
+    }
+  ]
+}
