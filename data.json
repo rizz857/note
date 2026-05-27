@@ -1,4 +1,12 @@
 {
-  "transactions": [],
+  "transactions": [
+    {
+      "id": 1779915519823,
+      "type": "income",
+      "amount": 120475,
+      "description": "First money",
+      "date": "2026-05-27"
+    }
+  ],
   "attendance": {}
 }
