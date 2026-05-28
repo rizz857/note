@@ -26,5 +26,12 @@
     "type": "expense",
     "amount": 5000,
     "desc": "Roti 2"
+  },
+  {
+    "id": 1779987886491,
+    "date": "2026-05-28",
+    "type": "expense",
+    "amount": 6732,
+    "desc": "Kouta 3 day Smartfren "
   }
 ]
