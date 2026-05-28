@@ -12,5 +12,12 @@
     "type": "expense",
     "amount": 10500,
     "desc": "Jajan"
+  },
+  {
+    "id": 1779980354172,
+    "date": "2026-05-28",
+    "type": "expense",
+    "amount": 7000,
+    "desc": "Es, gorengan "
   }
 ]
