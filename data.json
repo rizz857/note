@@ -5,5 +5,12 @@
     "type": "starting",
     "amount": 120475,
     "desc": "Awal bulan "
+  },
+  {
+    "id": 1779980300322,
+    "date": "2026-05-28",
+    "type": "starting",
+    "amount": 10500,
+    "desc": "Jajan"
   }
 ]
