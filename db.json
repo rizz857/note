@@ -1,3 +1,11 @@
 {
-  "transactions": []
+  "transactions": [
+    {
+      "id": 1779967197367,
+      "type": "expense",
+      "amount": 5000,
+      "description": "P",
+      "date": "2026-05-28"
+    }
+  ]
 }
