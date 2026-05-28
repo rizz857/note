@@ -13,7 +13,13 @@
       "amount": 10500,
       "description": "Jajan",
       "date": "2026-05-27"
+    },
+    {
+      "id": 1779959117268,
+      "type": "expense",
+      "amount": 7000,
+      "description": "Es, gorengan ",
+      "date": "2026-05-28"
     }
-  ],
-  "attendance": {}
+  ]
 }
