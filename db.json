@@ -1,11 +1,1 @@
-{
-  "transactions": [
-    {
-      "id": 1779975504242,
-      "type": "income",
-      "amount": 1000000,
-      "description": "Gaji",
-      "date": "2026-05-28"
-    }
-  ]
-}
+[]
