@@ -19,5 +19,12 @@
     "type": "expense",
     "amount": 7000,
     "desc": "Es, gorengan "
+  },
+  {
+    "id": 1779980371737,
+    "date": "2026-05-28",
+    "type": "expense",
+    "amount": 5000,
+    "desc": "Roti 2"
   }
 ]
