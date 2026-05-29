@@ -33,5 +33,12 @@
     "type": "expense",
     "amount": 6732,
     "desc": "Kouta 3 day Smartfren "
+  },
+  {
+    "id": 1780029464782,
+    "date": "2026-05-29",
+    "type": "expense",
+    "amount": 4000,
+    "desc": "Mie instan isi 2 "
   }
 ]
