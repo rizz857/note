@@ -47,5 +47,12 @@
     "type": "expense",
     "amount": 10000,
     "desc": "Warkop "
+  },
+  {
+    "id": 1780088703057,
+    "date": "2026-05-29",
+    "type": "expense",
+    "amount": 6000,
+    "desc": "Good day frezz "
   }
 ]
