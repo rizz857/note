@@ -40,5 +40,12 @@
     "type": "expense",
     "amount": 4000,
     "desc": "Mie instan isi 2 "
+  },
+  {
+    "id": 1780049225917,
+    "date": "2026-05-29",
+    "type": "expense",
+    "amount": 10000,
+    "desc": "Warkop "
   }
 ]
