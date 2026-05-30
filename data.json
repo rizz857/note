@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-05-30",
+    "type": "expense",
+    "amount": 10000,
+    "desc": "Jajan"
+  },
+  {
     "id": 1779980321978,
     "date": "2026-05-28",
     "type": "starting",
