@@ -2,6 +2,12 @@
   {
     "date": "2026-05-31",
     "type": "expense",
+    "amount": 10000,
+    "desc": "Stn"
+  },
+  {
+    "date": "2026-05-31",
+    "type": "expense",
     "amount": 4000,
     "desc": "Gorengan "
   },
