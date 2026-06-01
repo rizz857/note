@@ -55,6 +55,13 @@
       "amount": 375000,
       "description": "Uang keramik ibuk",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780330420577,
+      "type": "expense",
+      "amount": 14000,
+      "description": "Biaya adm bca",
+      "date": "2026-06-01"
     }
   ]
 }
