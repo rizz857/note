@@ -13,6 +13,13 @@
       "amount": 100000,
       "description": "Agata pinjam",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780299560403,
+      "type": "expense",
+      "amount": 15000,
+      "description": "Makan minum",
+      "date": "2026-06-01"
     }
   ]
 }
