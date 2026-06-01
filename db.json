@@ -6,6 +6,13 @@
       "amount": 1850000,
       "description": "Gaji",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780291359266,
+      "type": "expense",
+      "amount": 100000,
+      "description": "Agata pinjam",
+      "date": "2026-06-01"
     }
   ]
 }
