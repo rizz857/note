@@ -2,12 +2,6 @@
   {
     "date": "2026-06-01",
     "type": "expense",
-    "amount": 2000,
-    "desc": "Ndak tau"
-  },
-  {
-    "date": "2026-06-01",
-    "type": "expense",
     "amount": 15000,
     "desc": "Jajan"
   },
