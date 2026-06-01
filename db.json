@@ -1,9 +1,11 @@
-[
-  {
-    "id": 1779980038537,
-    "date": "2026-05-28",
-    "type": "expense",
-    "amount": 3333,
-    "desc": "Fffffd"
-  }
-]
+{
+  "transactions": [
+    {
+      "id": 1780291347080,
+      "type": "income",
+      "amount": 1850000,
+      "description": "Gaji",
+      "date": "2026-06-01"
+    }
+  ]
+}
