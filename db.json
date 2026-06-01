@@ -27,6 +27,13 @@
       "amount": 1000000,
       "description": "Bayar Pinjol",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780302428243,
+      "type": "expense",
+      "amount": 100000,
+      "description": "Uang saku Rizky",
+      "date": "2026-06-01"
     }
   ]
 }
