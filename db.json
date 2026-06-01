@@ -48,6 +48,13 @@
       "amount": 500000,
       "description": "Pengembalian dana",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780329696604,
+      "type": "expense",
+      "amount": 375000,
+      "description": "Uang keramik ibuk",
+      "date": "2026-06-01"
     }
   ]
 }
