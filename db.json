@@ -34,6 +34,13 @@
       "amount": 100000,
       "description": "Uang saku Rizky",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780329642757,
+      "type": "expense",
+      "amount": 38000,
+      "description": "Minum & besin",
+      "date": "2026-06-01"
     }
   ]
 }
