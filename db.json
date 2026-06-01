@@ -62,6 +62,13 @@
       "amount": 14000,
       "description": "Biaya adm bca",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780330429697,
+      "type": "expense",
+      "amount": 7000,
+      "description": "Gorengan",
+      "date": "2026-06-01"
     }
   ]
 }
