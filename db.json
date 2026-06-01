@@ -20,6 +20,13 @@
       "amount": 15000,
       "description": "Makan minum",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780302021437,
+      "type": "expense",
+      "amount": 1000000,
+      "description": "Bayar Pinjol",
+      "date": "2026-06-01"
     }
   ]
 }
