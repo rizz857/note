@@ -1,6 +1,12 @@
 [
   {
     "date": "2026-06-01",
+    "type": "starting",
+    "amount": 100000,
+    "desc": "Uang bulanan sekolah "
+  },
+  {
+    "date": "2026-06-01",
     "type": "income",
     "amount": 2000,
     "desc": "Ndak tau "
