@@ -41,6 +41,13 @@
       "amount": 38000,
       "description": "Minum & besin",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780329654628,
+      "type": "income",
+      "amount": 500000,
+      "description": "Pengembalian dana",
+      "date": "2026-06-01"
     }
   ]
 }
