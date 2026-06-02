@@ -2,6 +2,12 @@
   {
     "date": "2026-06-02",
     "type": "expense",
+    "amount": 5000,
+    "desc": "Jajan goreng"
+  },
+  {
+    "date": "2026-06-02",
+    "type": "expense",
     "amount": 7000,
     "desc": "Kouta 3 day"
   },
