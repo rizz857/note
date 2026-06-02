@@ -2,6 +2,12 @@
   {
     "date": "2026-06-02",
     "type": "expense",
+    "amount": 7000,
+    "desc": "Kouta 3 day"
+  },
+  {
+    "date": "2026-06-02",
+    "type": "expense",
     "amount": 8000,
     "desc": "Jajan"
   },
