@@ -2,6 +2,12 @@
   {
     "date": "2026-06-02",
     "type": "expense",
+    "amount": 3500,
+    "desc": "Roti + power F 1"
+  },
+  {
+    "date": "2026-06-02",
+    "type": "expense",
     "amount": 5000,
     "desc": "Jajan goreng"
   },
