@@ -69,6 +69,13 @@
       "amount": 7000,
       "description": "Gorengan",
       "date": "2026-06-01"
+    },
+    {
+      "id": 1780388266201,
+      "type": "expense",
+      "amount": 129500,
+      "description": "Learning Account",
+      "date": "2026-06-02"
     }
   ]
 }
