@@ -83,6 +83,13 @@
       "amount": 45000,
       "description": "Keperluan pendidikan",
       "date": "2026-06-03"
+    },
+    {
+      "id": 1780490216967,
+      "type": "expense",
+      "amount": 8000,
+      "description": "Esteh 2",
+      "date": "2026-06-03"
     }
   ]
 }
