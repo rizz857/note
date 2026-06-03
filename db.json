@@ -76,6 +76,13 @@
       "amount": 129500,
       "description": "Learning Account",
       "date": "2026-06-02"
+    },
+    {
+      "id": 1780490206970,
+      "type": "expense",
+      "amount": 45000,
+      "description": "Keperluan pendidikan",
+      "date": "2026-06-03"
     }
   ]
 }
