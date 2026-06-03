@@ -97,6 +97,13 @@
       "amount": 300000,
       "description": "Veriska pinjam",
       "date": "2026-06-03"
+    },
+    {
+      "id": 1780490508200,
+      "type": "expense",
+      "amount": 30000,
+      "description": "Buku",
+      "date": "2026-06-03"
     }
   ]
 }
