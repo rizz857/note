@@ -90,6 +90,13 @@
       "amount": 8000,
       "description": "Esteh 2",
       "date": "2026-06-03"
+    },
+    {
+      "id": 1780490232909,
+      "type": "expense",
+      "amount": 300000,
+      "description": "Veriska pinjam",
+      "date": "2026-06-03"
     }
   ]
 }
