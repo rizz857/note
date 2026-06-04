@@ -111,6 +111,13 @@
       "amount": 38000,
       "description": "Jajan",
       "date": "2026-06-04"
+    },
+    {
+      "id": 1780590337405,
+      "type": "expense",
+      "amount": 5000,
+      "description": "Biaya adm",
+      "date": "2026-06-04"
     }
   ]
 }
