@@ -104,6 +104,13 @@
       "amount": 30000,
       "description": "Buku",
       "date": "2026-06-03"
+    },
+    {
+      "id": 1780590326760,
+      "type": "expense",
+      "amount": 38000,
+      "description": "Jajan",
+      "date": "2026-06-04"
     }
   ]
 }
