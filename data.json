@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-06-04",
+    "type": "expense",
+    "amount": 13000,
+    "desc": "STN "
+  },
+  {
     "date": "2026-06-02",
     "type": "expense",
     "amount": 3500,
