@@ -2,6 +2,12 @@
   {
     "date": "2026-06-04",
     "type": "expense",
+    "amount": 4000,
+    "desc": "Gorengan ita"
+  },
+  {
+    "date": "2026-06-04",
+    "type": "expense",
     "amount": 13000,
     "desc": "STN "
   },
