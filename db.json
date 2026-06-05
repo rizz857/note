@@ -118,6 +118,13 @@
       "amount": 5000,
       "description": "Biaya adm",
       "date": "2026-06-04"
+    },
+    {
+      "id": 1780650608915,
+      "type": "expense",
+      "amount": 22000,
+      "description": "Minum & besin",
+      "date": "2026-06-05"
     }
   ]
 }
