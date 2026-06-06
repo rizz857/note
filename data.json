@@ -2,6 +2,12 @@
   {
     "date": "2026-06-06",
     "type": "expense",
+    "amount": 9000,
+    "desc": "Gorengan 2,esteh (STN)"
+  },
+  {
+    "date": "2026-06-06",
+    "type": "expense",
     "amount": 5000,
     "desc": "Gorengan indro"
   },
