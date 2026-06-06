@@ -153,6 +153,13 @@
       "amount": 17000,
       "description": "Promosi",
       "date": "2026-06-06"
+    },
+    {
+      "id": 1780729648489,
+      "type": "income",
+      "amount": 400000,
+      "description": "Giving ",
+      "date": "2026-06-06"
     }
   ]
 }
