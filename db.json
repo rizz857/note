@@ -139,6 +139,13 @@
       "amount": 22000,
       "description": "Jajan",
       "date": "2026-06-06"
+    },
+    {
+      "id": 1780728909313,
+      "type": "expense",
+      "amount": 20000,
+      "description": "Makan minum",
+      "date": "2026-06-06"
     }
   ]
 }
