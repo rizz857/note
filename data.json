@@ -1,5 +1,11 @@
 [
   {
+    "date": "2026-06-06",
+    "type": "expense",
+    "amount": 5000,
+    "desc": "Gorengan indro"
+  },
+  {
     "date": "2026-06-04",
     "type": "expense",
     "amount": 4000,
