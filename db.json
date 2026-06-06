@@ -132,6 +132,13 @@
       "amount": 32000,
       "description": "Bensin",
       "date": "2026-06-06"
+    },
+    {
+      "id": 1780728240157,
+      "type": "expense",
+      "amount": 22000,
+      "description": "Jajan",
+      "date": "2026-06-06"
     }
   ]
 }
