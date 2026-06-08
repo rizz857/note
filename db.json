@@ -195,6 +195,13 @@
       "amount": 26000,
       "description": "Jajan bareng ade",
       "date": "2026-06-08"
+    },
+    {
+      "id": 1780926251677,
+      "type": "expense",
+      "amount": 120000,
+      "description": "Bayar wifi",
+      "date": "2026-06-08"
     }
   ]
 }
