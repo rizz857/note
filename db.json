@@ -188,6 +188,13 @@
       "amount": 56000,
       "description": "Keperluan pendidikan nia",
       "date": "2026-06-08"
+    },
+    {
+      "id": 1780926233412,
+      "type": "expense",
+      "amount": 26000,
+      "description": "Jajan bareng ade",
+      "date": "2026-06-08"
     }
   ]
 }
