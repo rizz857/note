@@ -167,6 +167,13 @@
       "amount": 60000,
       "description": "Rapot & saku nia",
       "date": "2026-06-08"
+    },
+    {
+      "id": 1780926021329,
+      "type": "expense",
+      "amount": 72000,
+      "description": "Belanja",
+      "date": "2026-06-08"
     }
   ]
 }
