@@ -181,6 +181,13 @@
       "amount": 50000,
       "description": "Kebutuhan sekolah nia",
       "date": "2026-06-08"
+    },
+    {
+      "id": 1780926173302,
+      "type": "expense",
+      "amount": 56000,
+      "description": "Keperluan pendidikan nia",
+      "date": "2026-06-08"
     }
   ]
 }
