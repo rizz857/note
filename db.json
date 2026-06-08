@@ -160,6 +160,13 @@
       "amount": 400000,
       "description": "Giving ",
       "date": "2026-06-06"
+    },
+    {
+      "id": 1780926006671,
+      "type": "expense",
+      "amount": 60000,
+      "description": "Rapot & saku nia",
+      "date": "2026-06-08"
     }
   ]
 }
