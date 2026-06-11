@@ -230,6 +230,13 @@
       "amount": 20000,
       "description": "Bensin",
       "date": "2026-06-11"
+    },
+    {
+      "id": 1781185531158,
+      "type": "expense",
+      "amount": 75000,
+      "description": "Angsuran mekar",
+      "date": "2026-06-11"
     }
   ]
 }
