@@ -216,6 +216,13 @@
       "amount": 8500,
       "description": "Tepung sasa",
       "date": "2026-06-11"
+    },
+    {
+      "id": 1781185511035,
+      "type": "income",
+      "amount": 130000,
+      "description": "Results Learn account",
+      "date": "2026-06-11"
     }
   ]
 }
