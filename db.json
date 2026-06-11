@@ -209,6 +209,13 @@
       "amount": 40000,
       "description": "Krayon pensil + sangu",
       "date": "2026-06-11"
+    },
+    {
+      "id": 1781185446441,
+      "type": "expense",
+      "amount": 8500,
+      "description": "Tepung sasa",
+      "date": "2026-06-11"
     }
   ]
 }
