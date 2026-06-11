@@ -223,6 +223,13 @@
       "amount": 130000,
       "description": "Results Learn account",
       "date": "2026-06-11"
+    },
+    {
+      "id": 1781185518200,
+      "type": "expense",
+      "amount": 20000,
+      "description": "Bensin",
+      "date": "2026-06-11"
     }
   ]
 }
