@@ -202,6 +202,13 @@
       "amount": 120000,
       "description": "Bayar wifi",
       "date": "2026-06-08"
+    },
+    {
+      "id": 1781185433476,
+      "type": "expense",
+      "amount": 40000,
+      "description": "Krayon pensil + sangu",
+      "date": "2026-06-11"
     }
   ]
 }
