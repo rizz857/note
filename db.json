@@ -237,6 +237,13 @@
       "amount": 75000,
       "description": "Angsuran mekar",
       "date": "2026-06-11"
+    },
+    {
+      "id": 1781426780933,
+      "type": "expense",
+      "amount": 140000,
+      "description": "Service & Oil motor",
+      "date": "2026-06-14"
     }
   ]
 }
