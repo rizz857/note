@@ -265,6 +265,13 @@
       "amount": 26500,
       "description": "Penarikan",
       "date": "2026-06-14"
+    },
+    {
+      "id": 1781430918552,
+      "type": "expense",
+      "amount": 18870,
+      "description": "Entertainment",
+      "date": "2026-06-14"
     }
   ]
 }
