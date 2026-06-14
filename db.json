@@ -251,6 +251,13 @@
       "amount": 10000,
       "description": "Bensin",
       "date": "2026-06-14"
+    },
+    {
+      "id": 1781430866535,
+      "type": "expense",
+      "amount": 11000,
+      "description": "2x makan",
+      "date": "2026-06-14"
     }
   ]
 }
