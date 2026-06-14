@@ -258,6 +258,13 @@
       "amount": 11000,
       "description": "2x makan",
       "date": "2026-06-14"
+    },
+    {
+      "id": 1781430891868,
+      "type": "expense",
+      "amount": 26500,
+      "description": "Penarikan",
+      "date": "2026-06-14"
     }
   ]
 }
