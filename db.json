@@ -279,6 +279,13 @@
       "amount": 120000,
       "description": "Yang saku Nia ( belum plus ngaji) ",
       "date": "2026-06-15"
+    },
+    {
+      "id": 1781510078255,
+      "type": "expense",
+      "amount": 15000,
+      "description": "Mie instan",
+      "date": "2026-06-15"
     }
   ]
 }
