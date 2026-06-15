@@ -272,6 +272,13 @@
       "amount": 18870,
       "description": "Entertainment",
       "date": "2026-06-14"
+    },
+    {
+      "id": 1781509990523,
+      "type": "expense",
+      "amount": 120000,
+      "description": "Yang saku Nia ( belum plus ngaji) ",
+      "date": "2026-06-15"
     }
   ]
 }
