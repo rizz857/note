@@ -286,6 +286,13 @@
       "amount": 15000,
       "description": "Mie instan",
       "date": "2026-06-15"
+    },
+    {
+      "id": 1781528839665,
+      "type": "expense",
+      "amount": 32000,
+      "description": "Entertainment",
+      "date": "2026-06-15"
     }
   ]
 }
