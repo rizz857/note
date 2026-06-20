@@ -321,6 +321,13 @@
       "amount": 50000,
       "description": "Pengembalian dana",
       "date": "2026-06-20"
+    },
+    {
+      "id": 1781934439984,
+      "type": "expense",
+      "amount": 27000,
+      "description": "Buku ngaji nia",
+      "date": "2026-06-20"
     }
   ]
 }
