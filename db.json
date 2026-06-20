@@ -293,6 +293,13 @@
       "amount": 32000,
       "description": "Entertainment",
       "date": "2026-06-15"
+    },
+    {
+      "id": 1781933902272,
+      "type": "expense",
+      "amount": 200000,
+      "description": "Pendidikan  & belanja",
+      "date": "2026-06-20"
     }
   ]
 }
