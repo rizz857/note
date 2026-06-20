@@ -307,6 +307,13 @@
       "amount": 50000,
       "description": "Pengembalian dana",
       "date": "2026-06-20"
+    },
+    {
+      "id": 1781934391460,
+      "type": "income",
+      "amount": 50000,
+      "description": "Salah input sblm nya",
+      "date": "2026-06-20"
     }
   ]
 }
