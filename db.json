@@ -300,6 +300,13 @@
       "amount": 200000,
       "description": "Pendidikan  & belanja",
       "date": "2026-06-20"
+    },
+    {
+      "id": 1781934372486,
+      "type": "expense",
+      "amount": 50000,
+      "description": "Pengembalian dana",
+      "date": "2026-06-20"
     }
   ]
 }
