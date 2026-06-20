@@ -328,6 +328,13 @@
       "amount": 27000,
       "description": "Buku ngaji nia",
       "date": "2026-06-20"
+    },
+    {
+      "id": 1781934483377,
+      "type": "expense",
+      "amount": 23000,
+      "description": "Galon + lauk",
+      "date": "2026-06-20"
     }
   ]
 }
